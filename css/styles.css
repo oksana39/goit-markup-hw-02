@@ -74,6 +74,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .solution-btn:hover,
@@ -97,7 +98,7 @@ ul {
 
 .feature-text {
   font-size: 16px;
-  line-height: 1.5px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -129,6 +130,10 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.team-list {
+  background-color: #fff;
 }
 
 /* --------section four */
